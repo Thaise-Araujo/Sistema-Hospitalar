@@ -1,0 +1,314 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>[#TES-2] Adicionar depedencias das libraries</title>
+    <meta http-equiv="Content-Type" Content="application/vnd.ms-word; charset=UTF-8">
+        <style type="text/css">
+
+.tableBorder, .grid
+{
+    background-color: #fff;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.tableBorder td, .grid td
+{
+    vertical-align: top;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+.noPadding
+{
+    padding: 0 !important;
+}
+
+h3 .subText
+{
+    font-size: 60%;
+    font-weight: normal;
+}
+
+.tabLabel
+{
+    font-weight: bold;
+    border: 1px solid #ccc;
+    border-bottom:none;
+    padding: 2px;
+    display: inline;
+}
+
+td.blank
+{
+    padding: 0;
+    margin: 0;
+}
+
+.blank td
+{
+    border: none;
+}
+
+#descriptionArea
+{
+    margin: 0;
+    padding: 2px;
+    border: 1px solid #ccc;
+}
+
+hr
+{
+    border-top:1px solid #aaa;
+}
+
+hr.fullcontent
+{
+  height: 15px;
+  padding: 10px 0;
+  background: #fff url('https://thaise1arajo.atlassian.net/images/icons/hr.gif') no-repeat scroll center;
+}
+
+</style>
+
+</head>
+<body>
+
+<table class="tableBorder" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" width="100%" colspan="2" valign="top">
+                            <h3 class="formtitle">
+                        [TES-2]&nbsp;<a href="https://thaise1arajo.atlassian.net/browse/TES-2">Adicionar depedencias das libraries</a>
+            <span class="subText">
+               Criado: 07/jan/26                   &nbsp;Atualizado(a): 07/jan/26
+
+                                                    &nbsp;Resolvido: 07/jan/26
+                            </span>
+            </h3>
+        </td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Status:</b></td>
+        <td width="80%">Concluído</td>
+    </tr>
+    <tr>
+        <td width="20%"><b>Projeto:</b></td>
+        <td width="80%"><a href="https://thaise1arajo.atlassian.net/secure/BrowseProject.jspa?id=10033">Testes</a></td>
+    </tr>
+
+        <tr>
+            <td><b>Componentes:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões afetadas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+
+        <tr>
+            <td><b>Versões corrigidas:</b></td>
+            <td>
+                            Nenhum
+                </td>
+    </tr>
+    
+    
+    </table>
+
+<br />
+<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+    <tr>
+        <td bgcolor="#f0f0f0" valign="top" width="20%">
+            <b>Tipo:</b>
+        </td>
+        <td bgcolor="#ffffff" valign="top"  width="30%" >
+            Tarefa
+        </td>
+
+                    <td bgcolor="#f0f0f0">
+                <b>Prioridade:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap>
+                Medium
+            </td>
+            </tr>
+    <tr>
+                        <td bgcolor="#f0f0f0" valign="top" width="20%">
+                <b>Relator:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top"  width="30%" >
+                                        
+                
+        
+            <a class="user-hover" rel="712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                id="word_reporter_712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                href="https://thaise1arajo.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A081c7618-1a9d-4dcf-871e-412cf3d26ca6">
+                    Maria Thaise de Araújo Silva
+                </a>
+
+                            </td>
+        
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Responsável:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" nowrap  width="30%" >
+                                    Não atribuído
+                            </td>
+            </tr>
+    	<tr>
+		<td bgcolor="#f0f0f0" width="20%">
+			<b>Resolução:</b>
+		</td>
+		<td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                            Itens concluídos
+                    </td>
+                    <td bgcolor="#f0f0f0" width="20%">
+                <b>Votos:</b>
+            </td>
+            <td bgcolor="#ffffff" valign="top" width="30%" nowrap>
+                0
+            </td>
+        
+    </tr>
+    
+        <tr>
+        <td bgcolor="#f0f0f0" width="20%">
+            <b>Categorias:</b>
+        </td>
+        <td id="labels-10069-value" class="value" bgcolor="#ffffff" valign="top" colspan="3" nowrap>
+                            Nenhum
+                    </td>
+    </tr>
+    
+    	<tr>
+        		<td bgcolor="#f0f0f0" width="20%"><b>Estimativa de trabalho restante:</b></td>
+        <td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Tempo gasto:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+	</tr>
+    <tr>
+                <td bgcolor="#f0f0f0" width="20%"><b>Estimativa original:</b></td>
+		<td bgcolor="#ffffff" valign="top" nowrap width="80%" colspan="3">
+                            Desconhecido
+            		</td>
+    </tr>
+    
+    </table>
+
+
+
+    <br />
+
+    	<table class="grid" cellpadding="0" cellspacing="0" border="0" width="100%">
+            
+
+        
+    
+
+
+    
+                        <tr>
+                <td bgcolor="#f0f0f0" width="20%" valign="top"><b>Rank:</b></td>
+                <td id="customfield_10019-10069-value" class="value" bgcolor="#ffffff" width="80%">      0|i00013:
+  </td>
+            </tr>
+            </table>
+
+
+    <br/>
+
+    <table cellpadding="2" cellspacing="0" border="0" width="100%" align="center">
+    <tr>
+        <td bgcolor="#bbbbbb" width="1%" nowrap align="center">
+            &nbsp;<font color="#ffffff"><b>Comentários</b></font>&nbsp;
+        </td>
+        <td>&nbsp;</td>
+    </tr>
+    </table>
+
+    <table cellpadding="0" cellspacing="0" border="0" width="100%" class="grid" style="margin: 0;">
+                <tr id="comment-header-10036"><td bgcolor="#f0f0f0">
+            Comentado por  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                id="word_commented_712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                href="https://thaise1arajo.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A081c7618-1a9d-4dcf-871e-412cf3d26ca6">
+                    Maria Thaise de Araújo Silva
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">07/jan/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10036"><td bgcolor="#ffffff">
+            <p> Aguardando acesso aos JARs do Mockito (byte-buddy, objenesis)<br/>
+✅ JUnit 4.12 já configurado</p>
+        </td></tr>
+                <tr id="comment-header-10037"><td bgcolor="#f0f0f0">
+            Comentado por  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                id="word_commented_712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                href="https://thaise1arajo.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A081c7618-1a9d-4dcf-871e-412cf3d26ca6">
+                    Maria Thaise de Araújo Silva
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">07/jan/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10037"><td bgcolor="#ffffff">
+            <p>Adicionado todas as librares </p>
+        </td></tr>
+                <tr id="comment-header-10038"><td bgcolor="#f0f0f0">
+            Comentado por  
+                                                    
+                
+        
+            <a class="user-hover" rel="712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                id="word_commented_712020:081c7618-1a9d-4dcf-871e-412cf3d26ca6"
+                href="https://thaise1arajo.atlassian.net/secure/ViewProfile.jspa?accountId=712020%3A081c7618-1a9d-4dcf-871e-412cf3d26ca6">
+                    Maria Thaise de Araújo Silva
+                </a>
+
+                                        <font size="-2">
+            [
+                <font color="#336699">07/jan/26</font>
+
+                            ]
+            </font>
+
+        </td></tr>
+        <tr id="comment-body-10038"><td bgcolor="#ffffff">
+            <p>Executado teste e respondeu corretamente</p>
+        </td></tr>
+            </table>
+Gerado em Wed Jan 07 22:35:08 UTC 2026 por Maria Thaise de Araújo Silva usando JIRA 1001.0.0-SNAPSHOT#100290-rev:358ff4e8485e1d7c2753275708036a2c3d8155e5.
+
+</body>
+</html>
